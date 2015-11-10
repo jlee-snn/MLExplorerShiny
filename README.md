@@ -11,7 +11,7 @@ In affliation with the NYC Data Science Academy
 This shiny application is an exploratory toolkit using R.  The purpose fo this project was to learn, exercise, and implement R code as well as an interactive front end using Shiny. 
 
 
-![alt tag](https://raw.github.com/jlee-snn/MLExplorerShiny/img/image1.png)
+![Alt text](/path/to/img/image1.png)
 
 ## How to Run
 There are two ways to run the program.     
