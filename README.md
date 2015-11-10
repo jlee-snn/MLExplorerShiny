@@ -15,10 +15,10 @@ This shiny application is an exploratory toolkit using R.  The purpose fo this p
 
 ## How to Run
 There are two ways to run the program.     
-### Run on Server
+##### Run on Server
   Go to the following link[...]
   
-### Run Locally  
+##### Run Locally  
   * Clone this repo to your local machine
   * Download the following list of R packages or make sure you have recent versions if you already have them.
 ```
