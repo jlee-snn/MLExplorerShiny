@@ -2,7 +2,7 @@
 Shiny toolkit for data science modeling using machine learning
 
 ### Collaborators
-Jospeh Lee
+Jospeh Lee  
 Avi Yashchin
 
 ## Introduction
